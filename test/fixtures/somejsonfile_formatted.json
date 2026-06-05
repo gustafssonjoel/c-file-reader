@@ -1,0 +1,14 @@
+{
+  "device": "sensor-a",
+  "interval_ms": 250,
+  "enabled": true,
+  "thresholds": {
+    "warn": 70,
+    "critical": 90
+  },
+  "tags": [
+    "embedded",
+    "linux",
+    "reader"
+  ]
+}
